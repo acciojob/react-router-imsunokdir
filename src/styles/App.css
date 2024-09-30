@@ -1,1 +1,15 @@
 
+.nav-bar{
+    background-color: rgb(46, 36, 36);
+    height: 40px;
+    display: flex;
+    gap:30px;
+    align-items: center;
+    padding: 10px;
+}
+
+.link{
+    /* background-color: red; */
+    color:white;
+    text-decoration: none;
+}
